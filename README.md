@@ -13,4 +13,4 @@ Senior iOS Engineer & Apple-platform specialist with 25+ years across software e
 [LinkedIn](https://www.linkedin.com/in/valentebruno/) · [ORCID](https://orcid.org/0009-0005-1449-7139)
 
 ---
-📌 Pinned below are recent projects — architecture exercises, SwiftUI apps, and computer-vision experiments.
+📌 Pinned below are selected iOS take-home assignments and architecture exercises — SwiftUI, UIKit, MVVM-C, and clean data layers.
