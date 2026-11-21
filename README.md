@@ -10,13 +10,9 @@ I help teams speed up slow iOS apps and modernize the code their next release de
 - **Usercentrics.** I improved accessibility in the iOS SDK and added XCTest coverage to catch regressions before SDK releases.
 - **Financial Times, through Parser.** I contributed to FT Edit for iOS, a reading app built around eight stories handpicked by the editors each weekday.
 
-## Products and publishing
+## Swift in Practice
 
-**Emergency Backpack** helps families agree on a meeting point before a power cut. The plan and supply lists work offline on iPhone, and a printed copy still works when the phone battery runs out. [How the app handles family data](https://valentebruno.github.io/emergency-backpack-privacy/)
-
-**epubEditor** is the Mac and iPad app I’m building for authors and publishers who need to correct an existing EPUB or write a book from scratch. As CTO of Punch!, I led development of Ziraldo’s *O Menino da Terra* for iPad. At PublishNews, I taught editors how to produce EPUBs.
-
-**Swift in Practice** is my publication for Apple developers. One case study follows five engineers migrating three live apps to Swift 6 in 12 weeks while feature work continued. The accompanying code shows the adapter that let new features use `async/await` against a callback-based service. [Read the case study](https://swiftinpractice.com/editions/3-swift-6-migration-playbook/) · [Inspect the adapter](https://github.com/valentebruno/swift-in-practice-examples/blob/main/03-swift-6-migration-playbook/04-testing-before-refactoring.swift) · [Subscribe on LinkedIn](https://www.linkedin.com/newsletters/swift-in-practice-7380685705250963456)
+I write case studies for Apple developers. One follows five engineers migrating three live apps to Swift 6 in 12 weeks while feature work continued. The accompanying code shows the adapter that let new features use `async/await` against a callback-based service. [Read the case study](https://swiftinpractice.com/editions/3-swift-6-migration-playbook/) · [Inspect the adapter](https://github.com/valentebruno/swift-in-practice-examples/blob/main/03-swift-6-migration-playbook/04-testing-before-refactoring.swift) · [Subscribe on LinkedIn](https://www.linkedin.com/newsletters/swift-in-practice-7380685705250963456)
 
 ## Work with me
 
